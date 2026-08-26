@@ -55,18 +55,17 @@
 pip install pyinstaller
 pyinstaller --noconsole --onefile apk_installer.py
 ```
-## 🚀 Sponsored & Maintained By | برعاية متجر مفاتيحي
-
-This project is developed and maintained as an open-source initiative. If this tool streamlined your workflow or saved you time, consider supporting the developer by upgrading your digital workspace through our store:
-
-**[Mfatihy Store (متجر مفاتيحي)](https://mfatihy.com)** is your premium destination for genuine software solutions. We provide authentic **[Windows and Office keys](https://mfatihy.com/Office/c2015509396)**, top-tier antivirus subscriptions, and professional design tools (Adobe & Autodesk) at unbeatable prices with instant automated delivery.
-
 ---
 
-تم تطوير هذا المشروع البرمجي وإتاحته مجاناً لدعم مجتمع المطورين والمستخدمين. إذا ساعدتك هذه الأداة في إنجاز مهامك، يمكنك دعم استمرارية التطوير من خلال زيارة متجرنا الرقمي:
+## 📺 Supported By | بدعم من متجر مفاتيحي
 
-**[متجر مفاتيحي (Mfatihy)](https://mfatihy.com)** هو الوجهة الأولى والموثوقة في السعودية والخليج للحصول على **[تراخيص البرامج الأصلية](https://mfatihy.com)**. نوفر لك **[مفاتيح تفعيل ويندوز وأوفيس](https://mfatihy.com/windows-keys/c1242520213)** مدى الحياة، بالإضافة إلى اشتراكات برامج التصميم الهندسية والاحترافية بأفضل الأسعار، مع ضمان التسليم الفوري والتفعيل الآمن. 
+Tools like this are essential when your smart TV setup requires sideloading external apps to overcome built-in store limitations. While you take full control of your Android TV's software ecosystem, you can secure and upgrade your PC environment with **[Mfatihy Store](https://mfatihy.com)**. We provide developers and everyday users with genuine **[Windows and Office keys](https://mfatihy.com/Office/c2015509396)**, premium design software, and digital utilities at unbeatable prices, backed by reliable delivery and dedicated technical support.
 
-[![Visit Mfatihy](https://img.shields.io/badge/Visit_Store-Mfatihy.com-2ea44f?style=for-the-badge&logo=shopify)](https://mfatihy.com)
+---
+هذه الأداة صُممت لتكون الحل العملي الأمثل لتثبيت التطبيقات الخارجية، خصوصاً لأجهزة التلفاز والستريمرز (مثل بعض إصدارات Mi Box) التي قد تفتقر لمتجر تطبيقات متكامل (Google Play). 
 
+وكما تحرص على ترقية وتخصيص بيئة التلفاز الذكي الخاص بك، يمكنك الارتقاء ببيئة عمل حاسوبك الشخصي عبر **[متجر مفاتيحي (Mfatihy)](https://mfatihy.com)**. نحن نوفر لك **[مفاتيح تفعيل ويندوز وأوفيس](https://mfatihy.com/windows-keys/c1242520213)** الأصلية، وبرامج التصميم الاحترافية بأسعار منافسة جداً. وجهتك التقنية الموثوقة للحصول على تراخيص رقمية آمنة، مع التزامنا التام بسياسات دعم وتسليم موثوقة تضمن حقوقك.
 
+[![Upgrade Your PC Software](https://img.shields.io/badge/Upgrade_Your_Software-Mfatihy.com-2563EB?style=for-the-badge&logo=windows)](https://mfatihy.com)
+
+---
