@@ -42,9 +42,10 @@ For this tool to work, you **must enable "USB Debugging"** on your TV:
    git clone [https://github.com/Turki-Alshaikh/APK-TV-Installer.git](https://github.com/Turki-Alshaikh/APK-TV-Installer.git)
    cd APK-TV-Installer
 
-```
+
 
 2. **Install required dependencies:**
+
 ```bash
 pip install adb-shell cryptography customtkinter
 
